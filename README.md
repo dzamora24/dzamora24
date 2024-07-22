@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👨🏽‍💻 Dennis Zamora Araya
 
-<!--
-**dzamora24/dzamora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ing. en Sistemas de Computacion con certificacion en base de datos
 
-Here are some ideas to get you started:
+📚Experiencia laboral en:
+📌Grupo Rolosa: Desarrollo de software junior
+📌Grupo Syntepro: QA Tester
+📌GTS:Desarrollo de software
+📌Morpho Travel Experience:Front End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚Conocimientos en:
+📌PHP              📌HTML5
+📌.Net FrameWork   📌CSS3
+📌.net Core        📌Selenium
+📌Java             📌TestNG
+📌MySQL            📌JUnit
+📌Oracle           📌JMetter
+📌SQL Server       📌Drupal
+📌Angular          📌ColdFusion
